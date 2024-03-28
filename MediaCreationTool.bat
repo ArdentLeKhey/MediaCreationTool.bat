@@ -18,15 +18,18 @@ rem set /a ISO=1
 
 ::# uncomment and change autodetected MediaEdition - or rename script:  "enterprise iso 2009 MediaCreationTool.bat"
 rem set EDITION=Enterprise
+set EDITION=ProfessionalN
 
 ::# uncomment and change autodetected MediaLangCode - or rename script:   "de-DE home 11 iso MediaCreationTool.bat"
 rem set LANGCODE=en-US
+set LANGCODE=fr-FR
 
 ::# uncomment and change autodetected MediaArch - or rename script:  "x64 iso 1909 Education MediaCreationTool.bat"
 rem set ARCH=x64
+set ARCH=x64
 
 ::# uncomment and change autodetected KEY - or rename script / provide via commandline - not needed for generic key
-rem set KEY=NPPR9-FWDCX-D2C8J-H872K-2YT43
+# rem set KEY=NPPR9-FWDCX-D2C8J-H872K-2YT43
 
 ::# uncomment to disable dynamic update for setup sources - or rename script: no_update 21H2 MediaCreationTool.bat"
 rem set /a NO_UPDATE=1
