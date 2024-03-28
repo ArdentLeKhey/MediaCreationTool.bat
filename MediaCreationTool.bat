@@ -29,7 +29,7 @@ rem set ARCH=x64
 set ARCH=x64
 
 ::# uncomment and change autodetected KEY - or rename script / provide via commandline - not needed for generic key
-# rem set KEY=NPPR9-FWDCX-D2C8J-H872K-2YT43
+::# rem set KEY=NPPR9-FWDCX-D2C8J-H872K-2YT43
 
 ::# uncomment to disable dynamic update for setup sources - or rename script: no_update 21H2 MediaCreationTool.bat"
 rem set /a NO_UPDATE=1
